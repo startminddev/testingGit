@@ -1,1 +1,1 @@
-# testingGit
+# testingGit es un programa que sirve para aprender a usar GIT
